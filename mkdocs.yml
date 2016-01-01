@@ -1,0 +1,22 @@
+site_name: Backdraft Docs
+site_author: Caleb Grove
+site_favicon: favicon.ico
+pages:
+- Home: index.md
+- Getting Started:
+	'installation.md'
+	'getting-started.md'
+- Advanced Topics:
+	'master-pages'
+	'flexible-graphics'
+	'customizing-modules'
+	'full-width'
+	'hiding-elements'
+	'flexible-iframes'
+	'rollovers'
+	'adjust-css'
+- Third Party Itegrations:
+	'exhibeo'
+	'wow-slider'
+	'hype'
+	'webyep'
