@@ -2,8 +2,9 @@ site_name: Backdraft Docs
 site_author: Caleb Grove
 site_favicon: favicon.ico
 pages:
-- Home:
+- Introduction:
     - 'index.md'
+	- '15-in-7.md'
 - Getting Started:
     - 'installation.md'
     - 'getting-started.md'
