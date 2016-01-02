@@ -12,6 +12,4 @@ Installing Backdraft is pretty simple.
 4. Um...
 5. Cue music and [create your first responsive page](getting-started.html)!
 
-	<div class="video-container" markdown="1">
-	<iframe src="http://www.youtube.com/embed/CSav51fVlKU" seamless="seamless"></iframe>
-	</div>
+	<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background-color: black;" markdown="1"><iframe src="http://www.youtube.com/embed/CSav51fVlKU" style="position: absolute; width: 100%; height: 100%; background-color: transparent; border: 0px none transparent; padding: 0px; overflow: hidden;" seamless="seamless"></iframe></div>

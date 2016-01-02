@@ -6,7 +6,7 @@ In this tutorial you will be walked though creating your first responsive page.
 
 ## Video
 
-<iframe src="http://www.youtube.com/embed/oWpMS-e2zCM" seamless="seamless"></iframe>
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background-color: black;" markdown="1"><iframe src="http://www.youtube.com/embed/oWpMS-e2zCM" style="position: absolute; width: 100%; height: 100%; background-color: transparent; border: 0px none transparent; padding: 0px; overflow: hidden;" seamless="seamless"></iframe></div>
 
 ## Setup
 
