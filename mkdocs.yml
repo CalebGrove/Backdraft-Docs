@@ -3,20 +3,20 @@ site_author: Caleb Grove
 site_favicon: favicon.ico
 pages:
 - Introduction:
-    - 'index.md'
+    - What's new: 'index.md'
     - 1.5 in Freeway 7: '15-in-fw7.md'
 - Getting Started:
     - 'installation.md'
-    - 'getting-started.md'
+    - Creating your first page: 'getting-started.md'
 - Advanced Topics:
     - 'master-pages.md'
     - 'flexible-graphics.md'
     - 'customizing-modules.md'
-    - 'full-width.md'
+    - Full width elements: 'full-width.md'
     - 'hiding-elements.md'
     - 'flexible-iframes.md'
-    - 'rollovers.md'
-    - 'adjust-css.md'
+    - Flexible rollovers: 'rollovers.md'
+    - Customizing the CSS: 'adjust-css.md'
 - Third Party Itegrations:
     - 'exhibeo.md'
     - 'wow-slider.md'
