@@ -53,7 +53,6 @@ Notes:
 			var solution = Math.ceil(percent * 10000) / 10000;
 			document.getElementById("result").innerHTML = "<code>padding-bottom: " + solution + "%</code>";
 		};
-
 		function validateThis(toValidate){
 			if (/^[0-9]*$/.test(toValidate.value) === true){
 				toValidate.className = "valid";
