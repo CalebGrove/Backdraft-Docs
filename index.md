@@ -26,5 +26,5 @@ After [Freeway 7 was released](http://www.softpress.com/freeway-pro/), we took a
 Go forth and make the web responsive!
 
 **Caleb Grove**  
-Mastermind at [OnRamp Web Design](http://onrampwebdesign.com)  
+Dude at [OnRamp Web Design](http://onrampwebdesign.com)  
 Creator of [Backdraft](http://getbackdraft.com)
