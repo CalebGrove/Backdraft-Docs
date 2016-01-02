@@ -1,19 +1,16 @@
 # Using Master Pages in Backdraft
-----
 
 There is nothing different or magical about how master pages and child pages work in Backdraft when compared to any other Freeway document, but there is a "best practice" approach that will make your life easier.
 
 What we are going to do is add three full-width wrappers to the master page. The first will hold the header, the second will be left blank to hold each pages content, and the third will hold the footer. Let's get started!
 
-***Note:** The master pages that are used by Backdraft to store modules (prefixed by **BD**) should not be used to create new pages. They are used just to hold the modules in a place where they will not be published with the rest of the site.*
+_**Note:** The master pages that are used by Backdraft to store modules (prefixed by **BD**) should not be used to create new pages. They are used just to hold the modules in a place where they will not be published with the rest of the site._
 
 ----
 
 ## Video
 
-<div class="video-container" markdown="1">
-<iframe src="http://www.youtube.com/embed/_xRnpm9dGTw" seamless="seamless"></iframe>
-</div>
+<iframe src="http://www.youtube.com/embed/_xRnpm9dGTw" width="100%" seamless="seamless"></iframe>
 
 ## Configuring Your Master Page
 

@@ -1,5 +1,4 @@
 # Using WOW Slider With Backdraft
-----
 
 WOW Slider is currently the easiest way to create flexible-width sliders and carousels for Backdraft. Using it is fairly straightforward and easy.
 

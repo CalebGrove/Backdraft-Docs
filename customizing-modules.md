@@ -1,5 +1,4 @@
 # Customizing the Modules
-----
 
 One of the basic premises of Backdraft is that it will let you design, while it helps with the construction. A large part of designing whilst using Backdraft is tied up in customizing the appearance of the modules. In this article, we will talk about customizing colors and sizes of columns.
 

@@ -1,5 +1,4 @@
 # Using Hype With Backdraft
-----
 
 <!--[Download example document](http://getbackdraft.com/docs/downloads/hype.zip) (2.6 MB)-->
 

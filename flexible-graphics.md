@@ -1,5 +1,4 @@
 # Flexible Graphic Items
-----
 
 One of the only downsides to Freeway 7 is how it handles graphics on a responsive website. Basically, all graphic that need to be flexible must be imported as pass-through graphics now.
 

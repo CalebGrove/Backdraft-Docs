@@ -1,5 +1,4 @@
 # Creating Your First Backdraft Page
-----
 
 In this tutorial you will be walked though creating your first responsive page.
 
@@ -7,9 +6,7 @@ In this tutorial you will be walked though creating your first responsive page.
 
 ## Video
 
-<div class="video-container" markdown="1">
 <iframe src="http://www.youtube.com/embed/oWpMS-e2zCM" seamless="seamless"></iframe>
-</div>
 
 ## Setup
 

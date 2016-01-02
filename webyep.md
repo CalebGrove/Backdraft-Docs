@@ -1,5 +1,4 @@
 # Using the WebYep Actions With Backdraft
-----
 
 For the most part, the Webyep action should work without a hitch within Backdraft's environment. However, there are a few things to keep in mind, as outlined below.
 

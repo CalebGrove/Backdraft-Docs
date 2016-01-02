@@ -1,5 +1,4 @@
 # Hiding/Showing Elements at Different Breakpoints
-----
 
 Hiding or showing elements at certain breakpoints is easy in Freeway 7 by using a little bit of CSS in the extended dialog.
 

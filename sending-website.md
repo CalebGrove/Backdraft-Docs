@@ -1,5 +1,4 @@
 # Sending Your Freeway Site
-----
 
 Oftentimes, I may want to take a peek at your Freeway file to assist with troubleshooting. Creating an archive and sending that to me is the most foolproof method.
 

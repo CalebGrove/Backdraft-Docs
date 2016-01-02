@@ -1,5 +1,4 @@
 # What's New in Backdraft 2.0
-----
 
 After [Freeway 7 was released](http://www.softpress.com/freeway-pro/), we took a long hard look at Backdraft, what it was, and what it could be. Using FW7’s new features, we built what we believe is the easiest-to-use and most powerful version of Backdraft to date.
 

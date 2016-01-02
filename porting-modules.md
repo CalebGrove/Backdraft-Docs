@@ -1,5 +1,4 @@
 # Using v1.5 Modules in v1.1 Sites
-----
 
 Because Freeway templates are essentially a FW file with some special attributes, it's impossible to upgrade a website from an older version of Backdraft to a newer version. A site is tied to the version of Backdraft that it was initially built with. However, it is entirely possible to get the new modules introduced in 1.5 to work in a website built using 1.1.
 

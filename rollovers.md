@@ -1,5 +1,4 @@
 # Flexible-Width Rollovers
-----
 
 The difficult thing about the rollover action is that it requires all the image stages to be layers, which is the opposite of inline construction. However, with a tad of ingenuity this can be circumnavigated. For this example, let's say that we are creating rollover where each of the graphics is a 400px wide by 200px high rectangle.
 

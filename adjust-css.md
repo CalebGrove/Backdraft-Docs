@@ -1,5 +1,4 @@
 # Using Custom CSS
-----
 
 While much responsive functionality can be achieved natively in Freeway now, you may still find yourself in scenarios where you need to hand-code some responsive CSS. Backdraft makes this easy with a built-in action!
 

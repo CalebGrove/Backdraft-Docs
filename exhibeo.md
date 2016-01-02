@@ -1,5 +1,4 @@
 # Using Exhibeo with Backdraft
-----
 
 [Download example document](http://getbackdraft.com/docs/downloads/exhibeo.zip) (9.7 MB)
 

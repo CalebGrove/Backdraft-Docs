@@ -1,5 +1,4 @@
 # Installing Backdraft & Dependencies
-----
 
 Installing Backdraft is pretty simple.
 

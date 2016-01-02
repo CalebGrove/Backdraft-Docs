@@ -1,5 +1,4 @@
 # Using Backdraft 1.5 with Freeway 7
-----
 
 If you have a website that you built with Backdraft 1.5 (BD1.5), you are probably interested in how you can use some of the new responsive tools that Freeway 7 (FW7) introduced in your website. In this article, we will discuss general compatibility, then beak down the new FW7 features and just how compatible they are with your website. To get some more details of what is new in FW7, please read [Softpress' extended reference](http://download2.softpress.com/docs/Extended_Reference_For_FW7.pdf?_ga=1.14162866.485017711.1379472539).
 

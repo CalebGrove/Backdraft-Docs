@@ -1,5 +1,4 @@
 # Flexible iframes
-----
 
 [Download example document](downloads/flexible-iframe.zip) (20 KB)
 

@@ -1,7 +1,5 @@
 # Full-Width Elements in Backdraft
 
----
-
 With the new full width wrapper module in Backdraft 2.0, creating full width sections of your website just got *too* easy.
 
 ---

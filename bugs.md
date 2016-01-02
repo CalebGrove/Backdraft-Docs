@@ -1,5 +1,4 @@
 # Fixes for Known Bugs
-----
 
 Because of how Freeway treats templates, publishing updates for Backdraft is difficult and time-consuming for both me and you - making fewer larger updates more preferable than a lot of small updates. This page will cover known bugs in the current version of Backdraft (1.5) and their fixes. All the bugs listed here will be fixed in the next release.
 
