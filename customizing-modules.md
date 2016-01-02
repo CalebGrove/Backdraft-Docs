@@ -16,8 +16,8 @@ Customizing the width of the columns of the framework and alternate framework mo
 
 1. Grab the left drag-handle of the right column and drag it to the right.
 
-	![](images/customize-modules-one.png){: .gif}
+	![](images/customize-modules-one.gif)
 
 2. Now, grab the right drag-handle of the left column and drag it to the right.
 
-	![](images/customize-modules-two.png){: .gif}
+	![](images/customize-modules-two.gif)
