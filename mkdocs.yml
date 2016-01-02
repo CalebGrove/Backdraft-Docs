@@ -4,7 +4,7 @@ site_favicon: favicon.ico
 pages:
 - Introduction:
     - 'index.md'
-    - '15-in-fw7.md'
+    - '1.5-in-freeway-7.md'
 - Getting Started:
     - 'installation.md'
     - 'getting-started.md'
