@@ -1,27 +1,20 @@
-# What's New in Backdraft 2.0
+# What's New in Backdraft 2.1
 
-After [Freeway 7 was released](http://www.softpress.com/freeway-pro/), we took a long hard look at Backdraft, what it was, and what it could be. Using FW7’s new features, we built what we believe is the easiest-to-use and most powerful version of Backdraft to date.
+Backdraft 2.1 is an incremental improvement on 2.0. It fixes a few bugs, and reflects what we've learned about working with Freeway 7 over the past year. Although there are no big new features, you should noticed a considerably refined experience when working with 2.1.
 
-1. New
+1. Improved
 
-	* Modern header. This is a simple header with a navigation menu on top that is fixed to the top of the browser window. This uses the CSS Menus action.
-	* Fixed header. This header is fixed to the top of the browser window, much like the one on [softpress.com](http://softpress.com). This uses the CSS Menus action.
-	* Side-by-side header that places the navigation menu on the same line as the logo and title. This uses the CSS Menus action.
-	* Full-width wrapper. Now it's even easier to create window-width backgrounds!
+	* All padding is defined as percentages. As a result, the buggy Box Sizing action is no longer needed, and the boxes should have much more consistent sizing. This change should make Backdraft much easier to work with.
+	* Heading text styles are now responsive. As such, Backdraft now requires Freeway 7.1+.
+	* Better semantics. The website title in the header modules are no longer `<h1>`s.
+	* Instead of using "width: 100%", we are now using "width: undefined".
+	* Scroll wheel capture has been disabled for the embedded Google Maps in the Contact Form module. Oftentimes, the map would keep mobile users from scrolling down the page because the map would capture the scrolling.
+	* Logos in the headers are now pass-through graphics and flexible.
+	* The [Responsive Video action](http://actionsforge.com/actions/responsive-video) has been updated to v1.2.
 
-2. Improved
+2. Fixed
 
-	* Backdraft now uses the Freeway’s new responsive functionality instead of hand-coded CSS wherever possible - thus making it much easier and quicker for you to customize and tweak the appearance at various breakpoints!
-	* The “alternate” modules have been rebuilt with simpler construction.
-	* All modules have been moved onto master pages. This will make your site’s publish faster and keep Backdraft HTML files and placeholder graphics from cluttering up your site folder.
-
-3. Fixed
-
-	* All the bugs!
-
-4. Changed
-
-	* **All graphics that need to be flexible width must now be imported as pass-through graphics!** This is due to a technical limitation of Freeway 7. Read the full article [here](flexible-graphics.html).
+	* Submenus are now styled.
 
 Go forth and make the web responsive!
 

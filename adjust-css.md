@@ -12,8 +12,8 @@ While much responsive functionality can be achieved natively in Freeway now, you
 
 3. Click **Make a copy of the Backdraft CSS file**. This will open up a dialog allowing you to choose where you want to save your custom copy of Backdraft's CSS. We recommend you use the `Media` folder that Freeway created with your Backdraft document.
 
-    <aside markdown="1">
-    Pro tip: By selecting **Open file for editing**, it will immediately open the resulting CSS file in your default editor, ready for customization.
+    <aside>
+    <p>Pro tip: By selecting **Open file for editing**, it will immediately open the resulting CSS file in your default editor, ready for customization.</p>
     </aside>
 
 4. Click **Save**, then open the resulting CSS file in your favorite editor. It's already configured with the default Backdraft breakpoints and some small bits of additional CSS that Backdraft uses (don't remove it unless you know what you are doing).

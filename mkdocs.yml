@@ -4,7 +4,6 @@ site_favicon: favicon.ico
 pages:
 - Introduction:
     - What's new: 'index.md'
-    - 1.5 in Freeway 7: '15-in-fw7.md'
 - Getting Started:
     - 'installation.md'
     - Creating your first page: 'getting-started.md'

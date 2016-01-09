@@ -33,13 +33,13 @@ Now it’s time to add the modules to the page!
 
 7. Back on your page, double-click beneath the header and hit ⌘V to paste the module in. Remove the text, and replace the image with your own. **For your new image to be flexible, it needs to be imported as a pass-though.** See [this article](flexible-graphics.html) for more details.
 
-8. Underneath the hero image, we want to have a two column layout to describe our product. Now we will go to the **Framework Modules** page, copy the **twoWrapper** element, and paste it into the text flow of your new page, just like you did in step 7. Customize the content to taste.
+8. Underneath the hero image, we want to have a two column layout to describe our product. Now we will go to the **BD: Framework Modules** page, copy the **twoWrapper** element, and paste it into the text flow of your new page, just like you did in step 7. Customize the content to taste.
 
 9. Last but not least, we need a footer. Go and get the four column module from the **BD: Alt Modules** page and add it to the page just as you've been doing.
 
 Congratulations, you have just created a responsive page! Make sure the test and verify that it is all working correctly.
 
-## Adding Elements
+## Adding Custom Elements
 
 You've just created your responsive website, but what if you want to add images inside the columns, or have a Google Maps action element on the page?
 
