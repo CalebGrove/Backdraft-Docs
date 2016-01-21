@@ -7,6 +7,7 @@ pages:
 - Getting Started:
     - 'installation.md'
     - Creating your first page: 'getting-started.md'
+    - Known Bugs: 'known-bugs.md'
 - Advanced Topics:
     - 'master-pages.md'
     - 'flexible-graphics.md'
