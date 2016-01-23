@@ -29,3 +29,13 @@ Because there is no real upgrade path for Freeway templates, I try and keep the 
 5. Press ⌘V to paste **fourMiddleRight** back in.
 
 6. Do it again, but this time for the four column module on the **BD: Alt Modules** page, and anywhere you used a four column module in your website.
+
+## Four Column Misaligned at 720px Breakpoint
+
+If you take a look at the four column module at the 720px breakpoint, you will see that it's all janky. First, this bug only affects the construction view in Freeway — the output will work and look as expected. However, if you want to get the construction view to more accurately portray the output, here's what you can do:
+
+1. Go into the 720px breakpoint in Freeway.
+
+2. Select the **fourMiddleRight** element.
+
+3. Open the inspector, and set it to **clear: left**.
