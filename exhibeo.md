@@ -1,6 +1,6 @@
 # Using Exhibeo with Backdraft
 
-[Download example document](http://getbackdraft.com/docs/downloads/exhibeo.zip) (9.7 MB)
+[Download example document](https://github.com/CalebGrove/Backdraft-Docs/blob/master/downloads/exhibeo.zip) (9.7 MB)
 
 [Exhibeo](http://exhibeoapp.com) is a very easy to use web gallery generator created by the folks at Softpress, which makes it easy to create responsive-friendly galleries for Freeway. While most of the themes are responsive-friendly from the get-go, a few need a helping hand.
 
