@@ -23,5 +23,5 @@ Backdraft 2.1 is an incremental improvement on 2.0. It fixes a few bugs, and ref
 Go forth and make the web responsive!
 
 **Caleb Grove**  
-Dude at [OnRamp Web Design](http://onrampwebdesign.com)  
+Proprietor, [Grove Design](http://grovedesign.co)  
 Creator of [Backdraft](http://getbackdraft.com)
