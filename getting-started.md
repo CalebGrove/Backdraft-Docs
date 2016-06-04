@@ -10,7 +10,7 @@ In this tutorial you will be walked though creating your first responsive page.
 
 ## Setup
 
-1. [Install Backdraft](installation.html).
+1. [Install Backdraft](installation/).
 2. Launch Freeway and in the **new document** dialog, choose **Responsive** from the site panel and select **Backdraft 2.0**.
 3. Choose a location for the site folder.
 4. Once the document opens, create a new page in the site folder based off of the **Main Master** master page, and name it `My First Responsive Webpage`.
