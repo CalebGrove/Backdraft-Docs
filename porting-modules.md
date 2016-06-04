@@ -2,7 +2,7 @@
 
 Because Freeway templates are essentially a FW file with some special attributes, it's impossible to upgrade a website from an older version of Backdraft to a newer version. A site is tied to the version of Backdraft that it was initially built with. However, it is entirely possible to get the new modules introduced in 1.5 to work in a website built using 1.1.
 
-Note: These directions will also allow you to use the new [utility classes](hiding-elements.html) and prevent Mobile Safari from zooming in on rotate.
+Note: These directions will also allow you to use the new [utility classes](hiding-elements/) and prevent Mobile Safari from zooming in on rotate.
 {:.aside}
 
 ----
