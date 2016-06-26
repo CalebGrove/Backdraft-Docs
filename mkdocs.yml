@@ -18,7 +18,8 @@ pages:
     - Flexible rollovers: 'rollovers.md'
     - Customizing the CSS: 'adjust-css.md'
 - Third Party Itegrations:
-    - 'exhibeo.md'
+    - Exhibeo 2: 'exhibeo.md'
+    - Exhibeo 1: 'exhibeo1.md'
     - 'wow-slider.md'
     - 'hype.md'
     - 'webyep.md'
