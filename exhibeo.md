@@ -14,6 +14,6 @@
 
 5. Open the inspector, and deactivate the width and the height fields. Although the gallery in Freeway's construction-view will collapse, if you preview the website in the browser the gallery will automatically expand to the correct size.
 
-		![](/images/exhibeo-five.gif)
+	![](/images/exhibeo-five.gif)
 
 6. Done!
