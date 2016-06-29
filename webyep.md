@@ -10,4 +10,4 @@ For the most part, the Webyep action should work without a hitch within Backdraf
 
 * In Backdraft, there is a custom CSS class applied to the images through the extended dialog that makes them flexible width. If you want any WebYep images to be flexible-width, you will need to add it to the actions extended interface. Open the actions palette, click on the **extended** button, and paste this in: `class="flexImage"`
 
-* WebYep galleries are not flexible-width, and so must not be used with Backdraft. I've cooked up a custom module for this (essentially a looping row of Webyep images), so if you need a WebYep gallery-like feature, please email me with a copy of your receipt for the WebYep actions, and I'll send it to you with directions for implementation. Send the email to <backdraft@onrampwebdesign.com>.
+* WebYep galleries are not flexible-width, and so must not be used with Backdraft. However, check out this great video that Max put together: https://vimeo.com/169811642
